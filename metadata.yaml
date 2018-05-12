@@ -1,0 +1,28 @@
+_repo: The-History-of-the-First-West-India-Regiment_29984
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ellis, A. B. (Alfred Burdon)
+    alias: Ellis, Alfred Burdon
+    birthdate: 1852
+    deathdate: 1894
+    gutenberg_agent_id: '34291'
+    url: http://www.gutenberg.org/2009/agents/34291
+description: ''
+gutenberg_issued: '2009-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29984'
+  lccn: '45051229'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain. Army. West India regiment, 1st'
+- !lcc 'UA'
+title: The History of the First West India Regiment
+url: http://www.gutenberg.org/ebooks/29984
